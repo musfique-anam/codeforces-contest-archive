@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-
 int main (){
     int t,n,k,count=0,track=0;
     while(t--){
