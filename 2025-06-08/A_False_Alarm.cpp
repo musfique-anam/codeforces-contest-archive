@@ -10,7 +10,6 @@ int main(){
             cin>>a;
             v.push_back(a);
         }
-        
         if(n>x){
             for(i=0;i<n;i++){
                 if(v[i]==1)
